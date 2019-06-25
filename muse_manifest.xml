@@ -1,0 +1,60 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="lukkame.com" resolutions="1x" timestamp="1561423857252">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="337968114" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-bold.woff" crc="4261763981"/>
+    <file name="montserrat-bold.eot" crc="4026045001"/>
+    <file name="montserrat-bold.svg" crc="3901776948"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="404375771" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="youtube-brands.svg" crc="4189750169" seo="true" ref="phone>index:index"/>
+    <file name="youtube-brands_poster_.png" crc="303849992" ref="phone>index"/>
+    <file name="instagram-brands.svg" crc="215244172" seo="true" ref="phone>index:index"/>
+    <file name="instagram-brands_poster_.png" crc="4202712135" ref="phone>index"/>
+    <file name="facebook-f-brands.svg" crc="3815389570" seo="true" ref="phone>index:index"/>
+    <file name="facebook-f-brands_poster_.png" crc="3944053111" ref="phone>index"/>
+    <file name="logo h.svg" crc="3791661955" ref="phone>index"/>
+    <file name="logo h_poster_u4560.png" crc="299994383" ref="phone>index"/>
+    <file name="top-u4131-fr.png" crc="4004738319" ref="phone>index"/>
+    <file name="photo-u4199-fr.jpg" crc="329127650" ref="phone>index"/>
+    <file name="10.jpg" crc="4212425790" seo="true" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="11.jpg" crc="3953041098" seo="true" ref="phone>index:index"/>
+    <file name="12.png" crc="455546078" seo="true" ref="phone>index"/>
+    <file name="13.jpg" crc="433987261" seo="true" ref="phone>index:index"/>
+    <file name="14.jpg" crc="3890060677" seo="true" ref="phone>index:index"/>
+    <file name="15.jpg" crc="43025151" seo="true" ref="phone>index:index"/>
+    <file name="16.png" crc="3892763497" seo="true" ref="phone>index"/>
+    <file name="17.jpg" crc="3953777788" seo="true" ref="phone>index:index"/>
+    <file name="18.jpg" crc="486122926" seo="true" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="top-h.svg" crc="4136922232" seo="true" ref="index"/>
+    <file name="top h_poster_.png" crc="503830412" ref="index"/>
+    <file name="top.png" crc="4006937175" ref="index"/>
+    <file name="photo.jpg" crc="26261514" ref="index"/>
+    <file name="12.jpg" crc="477964673" seo="true" ref="index"/>
+    <file name="16.jpg" crc="122933089" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="404366926" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="504699907" seo="true" mt="1561423855442" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4242457563" seo="true" mt="1561423855443" redirect="true"/>
+</manifest>
